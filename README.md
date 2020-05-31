@@ -1,1 +1,1 @@
-#### blog_test
+#### nothing extraordinary just following justdjango.com tuts. cheers
